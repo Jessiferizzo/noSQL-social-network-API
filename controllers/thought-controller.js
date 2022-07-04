@@ -129,8 +129,6 @@ const thoughtController = {
       })
       .catch(err => res.json(err));
   }
+}
 
-
-};
-
-module.exports = thoughtController
+module.exports = thoughtController;
