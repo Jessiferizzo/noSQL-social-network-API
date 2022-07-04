@@ -16,9 +16,14 @@
   # Site 
   [Social-Network-API Github](https://github.com/Jessiferizzo/noSQL-social-network-API.git)
   
-  Video Demos
+  ### Video Demos
+  ---
 
-  [https://pizza-hunt-allpizzas.herokuapp.com/](https://github.com/Jessiferizzo/pizza-hunt.git)
+  * [User Routes and starting server](https://drive.google.com/file/d/1KBSV5fAGo9aCmSA5q8Xk0Td2alc_nek7/view)
+  * [Thoughts Routes](https://drive.google.com/file/d/1jAti_YoNEauRkV2cvAww67EE8Qauzplm/view)
+  * [Reaction Routes](https://drive.google.com/file/d/1B7zdynN8cHAh9rzakuI3i_bVYe1z0sWC/view)
+  * [Friend Routes](https://drive.google.com/file/d/1kgAuY36zjlgHsYK4yniwrBi3q9U3mhZB/view)
+
 
 
   ## Built With:
